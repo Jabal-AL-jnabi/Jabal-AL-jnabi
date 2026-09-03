@@ -19,10 +19,8 @@
   <span style="color: #00FF00; animation: blink 1s infinite;">●</span>
 </p>
 
-<!-- MATRIX RAIN GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26BGC02sGV2fP1sS8/giphy.gif" width="100%" alt="Matrix Rain" style="border-radius: 10px; border: 2px solid #00FF00; box-shadow: 0 0 30px #00FF00;" />
-</p>
+<!-- DIVIDER -->
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <!-- AVATAR + GLITCH EFFECT -->
 <p align="center">
@@ -38,15 +36,7 @@
   <i>"Build what you imagine."</i>
 </p>
 
-<!-- LOADING BAR -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=400&lines=SYSTEM+LOADING+%5B████████████████████%5D+100%25" alt="Loading" />
-</p>
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00FF00&center=true&vCenter=true&width=600&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Divider" />
-</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <!-- BADGES -->
 <p align="center">
@@ -160,15 +150,7 @@ root@jabal:~$ exit
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=HAVE+A+NICE+DAY!;SYSTEM+SHUTDOWN+IN+3...2...1...;ACCESS+REVOKED;LOGGING+OUT..." alt="Typing SVG" />
 </p>
 
-<!-- NEO PULSE (دائرة نابضة) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=00FF00&center=true&vCenter=true&width=200&lines=⏣+⏣+⏣" alt="Pulse" />
-</p>
-
-<!-- DIVIDER FINAL -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00FF00&center=true&vCenter=true&width=600&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Divider" />
-</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <!-- FOOTER WAVES (أسود) -->
 <p align="center">
