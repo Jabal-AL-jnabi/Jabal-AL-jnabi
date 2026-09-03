@@ -20,7 +20,7 @@
 </p>
 
 <!-- DIVIDER -->
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center"><img src="jabal-divider.svg" alt="divider" width="600"/></p>
 
 <!-- AVATAR + GLITCH EFFECT -->
 <p align="center">
@@ -36,7 +36,7 @@
   <i>"Build what you imagine."</i>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center"><img src="jabal-divider.svg" alt="divider" width="600"/></p>
 
 <!-- BADGES -->
 <p align="center">
@@ -112,7 +112,7 @@ root@jabal:~$ exit
 ## 📈 Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jabal-AL-jnabi&theme=github-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00" alt="Activity Graph" />
+  <a href="https://github.com/Jabal-AL-jnabi">📊 شوف نشاطي الكامل على GitHub</a>
 </p>
 
 ## 🔥 Streak
@@ -150,7 +150,7 @@ root@jabal:~$ exit
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=HAVE+A+NICE+DAY!;SYSTEM+SHUTDOWN+IN+3...2...1...;ACCESS+REVOKED;LOGGING+OUT..." alt="Typing SVG" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center"><img src="jabal-divider.svg" alt="divider" width="600"/></p>
 
 <!-- FOOTER WAVES (أسود) -->
 <p align="center">
