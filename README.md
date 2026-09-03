@@ -49,7 +49,7 @@
 
 ---
 
-## ⚡ I'm currently working on
+## I'm currently working on
 **بنك (Banking System)** – بناء نظام بنكي متكامل باستخدام C/C++.
 
 ---
@@ -102,26 +102,26 @@ root@jabal:~$ exit
 </pre>
 
 <!-- GITHUB STATS (خارج الـ pre حتى تشتغل الصور والروابط فعلياً) -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Jabal-AL-jnabi&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jabal-AL-jnabi&layout=compact&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="Top Langs" />
 </p>
 
-## 📈 Recent Activity
+## Recent Activity
 
 <p align="center">
-  <a href="https://github.com/Jabal-AL-jnabi">📊 شوف نشاطي الكامل على GitHub</a>
+  <a href="https://github.com/Jabal-AL-jnabi">شوف نشاطي الكامل على GitHub</a>
 </p>
 
-## 🔥 Streak
+## Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jabal-AL-jnabi&theme=dark&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&sideNums=00FF00&dates=00FF00" alt="GitHub Streak" />
 </p>
 
-## 📬 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jabal-al-jnabi-564356430">
